@@ -15,6 +15,10 @@ It includes provisioning scripts that automatically configure a **Java-based web
 - 🐘 MySQL initialized from a **DB backup**
 - 🧪 Ideal for practicing **DevOps**, **infrastructure as code**, and **environment automation**
 
+### 🖼️ Architecture Diagram
+
+![VProfile Architecture](assets/architecture.png)
+
 ---
 
 ## 🧰 Tech Stack
